@@ -2,8 +2,8 @@
 avatar_filename: avatar.jpg
 bio: My research interests include biological physics and regenerative biology.
 interests:
-  - biologicalphysics
-  - regenerativebiology
+  - biological physics
+  - regenerative biology
 social:
   - icon: envelope
     icon_pack: fas
