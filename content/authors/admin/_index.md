@@ -26,7 +26,7 @@ organizations:
     url: https://bsse.ethz.ch/cobi
 superuser: true
 status:
-  icon: ☕️
+  icon: 
 title: Marco Meer
 role: PhD candidate in Computational Biology
 ---
