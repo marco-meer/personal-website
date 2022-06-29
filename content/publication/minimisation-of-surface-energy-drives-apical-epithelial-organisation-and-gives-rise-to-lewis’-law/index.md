@@ -12,6 +12,12 @@ authors:
 doi: "10.1101/590729 "
 draft: false
 featured: false
+tags:
+  - developmentalbiology
+  - biophysics
+categories:
+  - developmentalbiology
+  - biophysics
 image:
   filename: featured
   focal_point: Smart
