@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     icon: orcid
 organizations:
-  - name: D-BSSE, ETH Zurich
-    url: https://bsse.ethz.ch/
+  - name: CoBi group, D-BSSE, ETH Zurich
+    url: https://bsse.ethz.ch/cobi
 superuser: true
 status:
   icon: ☕️
