@@ -23,7 +23,7 @@ social:
     icon: orcid
 organizations:
   - name: CoBi group, D-BSSE, ETH Zurich
-    url: https://bsse.ethz.ch/cobi
+    url: https://bsse.ethz.ch/cobi/group/people/person-detail.MjE5ODA5.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html
 superuser: true
 status:
   ? icon
