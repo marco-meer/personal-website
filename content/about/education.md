@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
 
-  - title: BEng Electronic Engineering
+  - title: PhD candidate
     company: ETH Zurich
     company_url: 'https://ethz.ch'
     company_logo: org-eth
