@@ -11,6 +11,11 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/marco__meer
+  - display:
+      header: false
+    link: https://github.com/marco-meer
+    icon_pack: fab
+    icon: github
 organizations:
   - name: D-BSSE, ETH Zurich
     url: https://bsse.ethz.ch/
