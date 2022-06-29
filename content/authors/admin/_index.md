@@ -16,6 +16,11 @@ social:
     link: https://github.com/marco-meer
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-4501-6121
+    icon_pack: fab
+    icon: orcid
 organizations:
   - name: D-BSSE, ETH Zurich
     url: https://bsse.ethz.ch/
