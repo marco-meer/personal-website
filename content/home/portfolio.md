@@ -11,12 +11,11 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Biological Physics
+      tag: BP
+    - name: Developmental Biology
+      tag: DB
+
 headless: true
 design:
   columns: "1"
