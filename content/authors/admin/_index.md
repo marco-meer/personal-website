@@ -28,7 +28,7 @@ superuser: true
 status:
   icon: ☕️
 title: Marco Meer
-role: ""
+role: PhD candidate in Computational Biology
 ---
 Marco Meer is a PhD candidate at the CoBi group. His research interests  include biological physics and regenerative biology. He has specialised in biological physics and computational biology and has developed data-based computational models that have aided in understanding the mechanisms underlying morphogenetic processes.
 
