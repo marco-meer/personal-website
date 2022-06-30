@@ -40,7 +40,7 @@ experience:
     location: Heidelberg, Germany
     date_start: '2013'
     date_end: '2016'
-    description: 
+    description: ''
 
 design:
   columns: '1'
