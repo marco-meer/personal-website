@@ -21,6 +21,11 @@ social:
     link: https://orcid.org/0000-0003-4501-6121
     icon_pack: fab
     icon: orcid
+  - display:
+      header: false
+    link: https://scholar.google.ch/citations?user=T-Unh28AAAAJ
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: CoBi group, D-BSSE, ETH Zurich
     url: https://bsse.ethz.ch/cobi/group/people/person-detail.MjE5ODA5.TGlzdC8yMjA0LC0xMDM3ODQxNDk3.html
