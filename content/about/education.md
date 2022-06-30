@@ -33,14 +33,6 @@ experience:
     date_end: ''
     description: Cell-Based Simulations of Tissue Patterning during Morphogenesis
 
-    - title: Master of Science in Physics
-    company: Heidelberg University
-    company_url: 'https://www.uni-heidelberg.de'
-    company_logo: org-hd
-    location: Heidelberg, Germany
-    date_start: '2013-10-01'
-    date_end: '2016-10-01'
-    description: ''
 
 design:
   columns: '1'
