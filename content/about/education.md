@@ -29,7 +29,7 @@ experience:
     company_url: 'https://ethz.ch'
     company_logo: org-eth
     location: Basel, Switzerland
-    date_start: '2017'
+    date_start: '2017-01-01'
     date_end: ''
     description: Cell-Based Simulations of Tissue Patterning during Morphogenesis
 
@@ -38,8 +38,8 @@ experience:
     company_url: 'https://www.uni-heidelberg.de'
     company_logo: org-hd
     location: Heidelberg, Germany
-    date_start: '2013'
-    date_end: '2016'
+    date_start: '2013-10-01'
+    date_end: '2016-10-01'
     description: ''
 
 design:
