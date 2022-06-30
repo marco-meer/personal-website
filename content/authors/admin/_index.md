@@ -2,8 +2,8 @@
 avatar_filename: avatar.jpg
 bio: My research interests include biological physics and regenerative biology.
 interests:
-  - biological physics
-  - regenerative biology
+  - Biological Physics
+  - Regenerative Biology
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,6 +35,6 @@ status:
 title: Marco D. Meer
 role: PhD candidate in Computational Biology
 ---
-Marco Meer is a PhD candidate at the CoBi group. His research interests  include biological physics and regenerative biology. He has specialised in biological physics and computational biology and has developed data-based computational models that have aided in understanding the mechanisms underlying morphogenetic processes.
+Marco Meer is a PhD candidate in the CoBi group at the D-BSSE, ETH Zurich, Switzerland. His research interests include biological physics and regenerative biology. He has specialised in biological physics and computational biology and has developed data-based computational models that have aided in understanding the mechanisms underlying morphogenetic processes.
 
 <!--EndFragment-->
