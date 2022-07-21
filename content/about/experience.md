@@ -34,7 +34,7 @@ experience:
         
         * Analysing
         * Modelling
-
+        * Coding in C++, R, Python, Julia
 
 
 design:
